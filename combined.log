@@ -1,0 +1,241 @@
+{"message":"Hello","level":"info","service":"user-service"}
+{"message":"Hello","level":"info","service":"user-service"}
+{"message":"Now listening at %s:%s","level":"info","service":"user-service"}
+{"message":"Hello","level":"info","service":"user-service"}
+{"message":"Now listening at %s:%s","level":"info","service":"user-service"}
+{"message":"Hello","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Hello","level":"info","service":"user-service"}
+{"message":"in base router","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Hello","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Hello","level":"info","service":"user-service"}
+{"service":"user-service","level":"info","message":"#########"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Hello","level":"info","service":"user-service"}
+{"level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Hello","level":"info","service":"user-service"}
+{"message":"$$$$$$$$$","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Hello","level":"info","service":"user-service"}
+{"message":"$$$$$$$$$","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Hello","level":"info","service":"user-service"}
+{"message":"$$$$$$$$$","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"$$$$$$$$$","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"***********","level":"info","service":"user-service"}
+{"message":"$$$$$$$$$","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"***********","level":"info","service":"user-service"}
+{"message":"$$$$$$$$$","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info","service":"user-service"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"_bitField":0,"level":"info","message":"11111111"}
+{"level":"info","message":"SequelizeUtil"}
+{"0":{"id":68,"username":"padmaja","password":"123456","createdAt":"12:07:33.472779+00","updatedAt":"12:07:33.472779+00"},"level":"info","message":"11111111"}
+{"message":"2222222","level":"info"}
+{"0":{"id":68,"username":"padmaja","password":"123456","createdAt":"12:07:33.472779+00","updatedAt":"12:07:33.472779+00"},"level":"info","message":"User already exists"}
+{"message":"user already exists","level":"error"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"_bitField":0,"level":"info","message":"11111111"}
+{"level":"info","message":"SequelizeUtil"}
+{"0":{"id":68,"username":"padmaja","password":"123456","createdAt":"12:07:33.472779+00","updatedAt":"12:07:33.472779+00"},"level":"info","message":"11111111"}
+{"message":"2222222","level":"info"}
+{"0":{"id":68,"username":"padmaja","password":"123456","createdAt":"12:07:33.472779+00","updatedAt":"12:07:33.472779+00"},"level":"info","message":"User already exists"}
+{"message":"user already exists","level":"error"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"_bitField":0,"level":"info","message":"11111111"}
+{"level":"info","message":"SequelizeUtil"}
+{"0":{"id":68,"username":"padmaja","password":"123456","createdAt":"12:07:33.472779+00","updatedAt":"12:07:33.472779+00"},"level":"info","message":"11111111"}
+{"message":"2222222","level":"info"}
+{"0":{"id":68,"username":"padmaja","password":"123456","createdAt":"12:07:33.472779+00","updatedAt":"12:07:33.472779+00"},"level":"info","message":"User already exists"}
+{"message":"user already exists","level":"error"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"_bitField":0,"level":"info","message":"11111111"}
+{"level":"info","message":"SequelizeUtil"}
+{"0":{"id":68,"username":"padmaja","password":"123456","createdAt":"12:07:33.472779+00","updatedAt":"12:07:33.472779+00"},"level":"info","message":"11111111"}
+{"message":"2222222","level":"info"}
+{"0":{"id":68,"username":"padmaja","password":"123456","createdAt":"12:07:33.472779+00","updatedAt":"12:07:33.472779+00"},"level":"info","message":"User already exists"}
+{"message":"user already exists","level":"error"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"_bitField":0,"level":"info","message":"11111111"}
+{"level":"info","message":"SequelizeUtil"}
+{"0":{"id":68,"username":"padmaja","password":"123456","createdAt":"12:07:33.472779+00","updatedAt":"12:07:33.472779+00"},"level":"info","message":"11111111"}
+{"message":"2222222","level":"info"}
+{"0":{"id":68,"username":"padmaja","password":"123456","createdAt":"12:07:33.472779+00","updatedAt":"12:07:33.472779+00"},"level":"info","message":"User already exists"}
+{"message":"user already exists","level":"error"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja1","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"0":{"id":79,"username":"padmaja1","password":"rte","createdAt":"13:33:22.339341+00","updatedAt":"13:33:22.339341+00"},"level":"info","message":"User already exists"}
+{"message":"user already exists","level":"error"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja1","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"0":{"id":79,"username":"padmaja1","password":"rte","createdAt":"13:33:22.339341+00","updatedAt":"13:33:22.339341+00"},"level":"info","message":"User already exists"}
+{"message":"user already exists","level":"error"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja1","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"0":{"id":79,"username":"padmaja1","password":"rte","createdAt":"13:33:22.339341+00","updatedAt":"13:33:22.339341+00"},"level":"info","message":"User already exists"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja1","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja1","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"message":"Now listening at 3000","level":"info"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"message":"User email already registered","level":"error"}
+{"message":"Now listening at 3000","level":"info"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"message":"User email already registered","level":"error"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:werrtret","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:wqewqe","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:fdgfdg","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"level":"info","message":"SequelizeUtil"}

@@ -1,0 +1,10 @@
+{
+"data": {
+    "loginTitle": "Login",
+    "registerTitle": "Register",
+    "username": "User Name",
+    "password": "Password",
+    "formBtnText": "Login",
+    "registerBtnText": "Register"
+  }
+}
