@@ -15,3 +15,541 @@
 {"message":"Now listening at 3000","level":"info"}
 {"level":"info","message":"----------------------"}
 {"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"message":"Now listening at 3000","level":"info"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:wr234","level":"info"}
+{"message":"222222221","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:wr234","level":"info"}
+{"message":"222222221","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:wr234","level":"info"}
+{"message":"222222221","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:wr234","level":"info"}
+{"message":"222222221","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:wr234","level":"info"}
+{"message":"222222221","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:5345345","level":"info"}
+{"message":"222222221","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:5345345","level":"info"}
+{"message":"222222221","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:5345345","level":"info"}
+{"message":"222222221","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:12344","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:hello","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"level":"info","message":"SequelizeUtil"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:User1","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:user","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:user","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:user","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:neehu","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:neehu","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:neehu","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:hi","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:hi","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:hi1","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:neehu","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:neehu","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:neehu","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:neehu","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:neehu","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:neehu","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:neehu","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:neehu","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:neehu","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:neehu","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:neehu","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:neehu","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:neehu","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:234324","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:234324","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:qwewqe","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:qwewqe","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"message":"Now listening at 3000","level":"info"}
+{"message":"Now listening at 3000","level":"info"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:neehu","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"message":"Now listening at 3000","level":"info"}
+{"message":"Now listening at 3000","level":"info"}
+{"message":"Now listening at 3000","level":"info"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:neehu","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:neehu","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:ertert","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:wrer","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:dfsf","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:dfsf","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:dfsf","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"message":"------------------","level":"info"}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:qwe","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"message":"------------------","level":"info"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:werwer","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"level":"info","message":"----------------------"}
+{"data":{"loginTitle":"Login","registerTitle":"Register","username":"User Name","password":"Password","formBtnText":"Login","registerBtnText":"Register"},"level":"info","message":"Data..........................."}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:wqe","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"error"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:ewrwer","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"message":"*************","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:wqeqwe","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"message":"*************","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:asd","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"message":"*************","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:ertr","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"message":"*************","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:qewe","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"message":"*************","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:qewe","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"message":"*************","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:qwewe","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"message":"*************","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:were","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"message":"*************","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:qeqwe","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"message":"*************","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:neehu","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:undefined","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:undefined","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:undefined","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:undefined","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:undefined","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:undefined","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:undefined","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:undefined","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:undefined","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:undefined","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:undefined","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:sudheer","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:sudheer","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"message":"324234234234","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"level":"info","message":"324234234234"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"message":"324234234234class extends Model {}","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:qwewe","level":"info"}
+{"message":"324234234234class extends Model {}","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"level":"info","message":"userModel"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmaja","level":"info"}
+{"message":"324234234234class extends Model {}","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"message":"User DATA[{\"id\":68,\"username\":\"padmaja\",\"password\":\"123456\",\"createdAt\":\"12:07:33.472779+00\",\"updatedAt\":\"12:07:33.472779+00\"}]","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmajarwewr","level":"info"}
+{"message":"324234234234class extends Model {}","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"message":"User DATA[]","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:padmajarwewr","level":"info"}
+{"message":"324234234234class extends Model {}","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"message":"User DATA[]","level":"info"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:w4324","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"message":"User DATA[]","level":"info"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:w4324","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"message":"User DATA[]","level":"info"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:w4324","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"message":"User DATA[]","level":"info"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:w4324","level":"info"}
+{"level":"info","message":"SequelizeUtil"}
+{"message":"User DATA[]","level":"info"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:w4324","level":"info"}
+{"message":"Sequelize query.............Executing (default): SELECT \"id\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"login\" AS \"login\" WHERE \"login\".\"username\" = 'w4324';","level":"info"}
+{"message":"User DATA[]","level":"info"}

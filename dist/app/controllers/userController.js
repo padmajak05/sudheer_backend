@@ -55,7 +55,7 @@ var operations = {
         record = data;
         resp.status(200).json(record);
       } else {
-        throw new Error('INVALID_USER_ID');
+        resp.status(200).json('INVALID_USER_ID');
       }
     }).catch(function (err) {
       var message = void 0,

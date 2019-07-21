@@ -1,6 +1,6 @@
 'use strict';
 
-var SequelizeUtil = require('../utils/sequelizeUtil');
+var SequelizeUtil = require('../common/sequelizeUtil');
 var Sequelize = require('sequelize');
 /* eslint-disable */
 var EVTC = 'userService';
@@ -11,7 +11,7 @@ var userSequelizervice = function userSequelizervice() {
     logger.info(EVTC, 'Initialized User Service');
     var sequelize = SequelizeUtil(config, logger).getConnection();
 
-    var User = sequelize.define('user', {
+    var User = sequelize.define('login', {
         // Sequelize.STRING,  Sequelize.DATE, Sequelize.BIGINT , Sequelize.JSON
         id: {
             type: Sequelize.BIGINT,
