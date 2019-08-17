@@ -6,7 +6,7 @@ var config = require("../../config/config");
 
 var EVTC = 'SequelizeUtil';
 var sequelize = void 0;
-var sequelizeUtil = function sequelizeUtil(config, logger) {
+var sequelizeUtil = function sequelizeUtil() {
     // Entity based code
     function getConnection() {
         if (!sequelize) {
@@ -16,7 +16,7 @@ var sequelizeUtil = function sequelizeUtil(config, logger) {
                 port: config.databases.postgres.port,
                 schema: config.databases.postgres.schema,
                 logging: function logging(str) {
-                    logger.info(EVTC, str);
+                    logger.info(EVTC + str);
                 },
                 define: { freezeTableName: true },
                 pool: {

@@ -553,3 +553,296 @@
 {"message":"userServiceSearching for a user based on id:w4324","level":"info"}
 {"message":"Sequelize query.............Executing (default): SELECT \"id\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"login\" AS \"login\" WHERE \"login\".\"username\" = 'w4324';","level":"info"}
 {"message":"User DATA[]","level":"info"}
+{"message":"Now listening at 3000","level":"info"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:n","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"login\" AS \"login\" WHERE \"login\".\"username\" = 'n';","level":"info"}
+{"message":"User DATA[]","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:pser","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"login\" AS \"login\" WHERE \"login\".\"username\" = 'pser';","level":"info"}
+{"message":"User DATA[]","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:true","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"login\" AS \"login\" WHERE \"login\".\"username\" = true;","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:true","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"login\" AS \"login\" WHERE \"login\".\"username\" = true;","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:true","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"login\" AS \"login\" WHERE \"login\".\"username\" = true;","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:true","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"login\" AS \"login\" WHERE \"login\".\"username\" = true;","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:true","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"login\" AS \"login\" WHERE \"login\".\"username\" = true;","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:true","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"login\" AS \"login\" WHERE \"login\".\"username\" = true;","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:true","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"login\" AS \"login\" WHERE \"login\".\"username\" = true;","level":"info"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:true","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = true;","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:true","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = true;","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"Sequelize queryExecuting (default): INSERT INTO \"db\".\"users\" (\"id\",\"firstName\",\"lastName\",\"username\",\"password\",\"creat_ts\",\"lst_updt_ts\") VALUES (DEFAULT,'dsfdsf','sdfdfsf','','',NOW(),NOW()) RETURNING *;","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:werewr","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = 'werewr';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"Sequelize queryExecuting (default): INSERT INTO \"db\".\"users\" (\"id\",\"firstName\",\"lastName\",\"username\",\"password\",\"creat_ts\",\"lst_updt_ts\") VALUES (DEFAULT,'dsewrewr','werwer','werewr','ewrwer',NOW(),NOW()) RETURNING *;","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:sudheer","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = 'sudheer';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"Sequelize queryExecuting (default): INSERT INTO \"db\".\"users\" (\"id\",\"firstName\",\"lastName\",\"username\",\"password\",\"creat_ts\",\"lst_updt_ts\") VALUES (DEFAULT,'sudheer','kanchumarthi','sudheer','sudheer',NOW(),NOW()) RETURNING *;","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:sudheer","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = 'sudheer';","level":"info"}
+{"message":"Now listening at 3000","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:sudheer","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = 'sudheer';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:sudheer","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = 'sudheer';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:sudheer","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = 'sudheer';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\";","level":"info"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\";","level":"info"}
+{"level":"info","message":"userModel"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:53564","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = '53564';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"Sequelize queryExecuting (default): INSERT INTO \"db\".\"users\" (\"id\",\"firstName\",\"lastName\",\"username\",\"password\",\"creat_ts\",\"lst_updt_ts\") VALUES (DEFAULT,'','','53564','36663',NOW(),NOW()) RETURNING *;","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:erter","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = 'erter';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"Sequelize queryExecuting (default): INSERT INTO \"db\".\"users\" (\"id\",\"firstName\",\"lastName\",\"username\",\"password\",\"creat_ts\",\"lst_updt_ts\") VALUES (DEFAULT,'','','erter','erttt',NOW(),NOW()) RETURNING *;","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:dfg","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = 'dfg';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"Sequelize queryExecuting (default): INSERT INTO \"db\".\"users\" (\"id\",\"firstName\",\"lastName\",\"username\",\"password\",\"creat_ts\",\"lst_updt_ts\") VALUES (DEFAULT,'','','dfg','gdfg',NOW(),NOW()) RETURNING *;","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:nbc","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = 'nbc';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"Sequelize queryExecuting (default): INSERT INTO \"db\".\"users\" (\"id\",\"firstName\",\"lastName\",\"username\",\"password\",\"creat_ts\",\"lst_updt_ts\") VALUES (DEFAULT,'','','nbc','ghfhg',NOW(),NOW()) RETURNING *;","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:wer","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = 'wer';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"Sequelize queryExecuting (default): INSERT INTO \"db\".\"users\" (\"id\",\"firstName\",\"lastName\",\"username\",\"password\",\"creat_ts\",\"lst_updt_ts\") VALUES (DEFAULT,'','','wer','werrw',NOW(),NOW()) RETURNING *;","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:wre","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = 'wre';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"Sequelize queryExecuting (default): INSERT INTO \"db\".\"users\" (\"id\",\"firstName\",\"lastName\",\"username\",\"password\",\"creat_ts\",\"lst_updt_ts\") VALUES (DEFAULT,'','','wre','wer',NOW(),NOW()) RETURNING *;","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:fgd","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = 'fgd';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"Sequelize queryExecuting (default): INSERT INTO \"db\".\"users\" (\"id\",\"firstName\",\"lastName\",\"username\",\"password\",\"creat_ts\",\"lst_updt_ts\") VALUES (DEFAULT,'','','fgd','dfg',NOW(),NOW()) RETURNING *;","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:dddd","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = 'dddd';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"Sequelize queryExecuting (default): INSERT INTO \"db\".\"users\" (\"id\",\"firstName\",\"lastName\",\"username\",\"password\",\"creat_ts\",\"lst_updt_ts\") VALUES (DEFAULT,'','','dddd','cccc',NOW(),NOW()) RETURNING *;","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:eeee","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = 'eeee';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"Sequelize queryExecuting (default): INSERT INTO \"db\".\"users\" (\"id\",\"firstName\",\"lastName\",\"username\",\"password\",\"creat_ts\",\"lst_updt_ts\") VALUES (DEFAULT,'','','eeee','rrrr',NOW(),NOW()) RETURNING *;","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:dsf","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = 'dsf';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"Sequelize queryExecuting (default): INSERT INTO \"db\".\"users\" (\"id\",\"firstName\",\"lastName\",\"username\",\"password\",\"creat_ts\",\"lst_updt_ts\") VALUES (DEFAULT,'aaaa','sdfdsf','dsf','dfg',NOW(),NOW()) RETURNING *;","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"userServiceSearching for a user based on id:retret","level":"info"}
+{"message":"Sequelize queryExecuting (default): SELECT \"id\", \"firstName\" AS \"firstname\", \"lastName\" AS \"lastname\", \"username\", \"password\", \"creat_ts\" AS \"createdAt\", \"lst_updt_ts\" AS \"updatedAt\" FROM \"db\".\"users\" AS \"users\" WHERE \"users\".\"username\" = 'retret';","level":"info"}
+{"level":"info","message":"userService"}
+{"message":"Sequelize queryExecuting (default): INSERT INTO \"db\".\"users\" (\"id\",\"firstName\",\"lastName\",\"username\",\"password\",\"creat_ts\",\"lst_updt_ts\") VALUES (DEFAULT,'','','retret','retret',NOW(),NOW()) RETURNING *;","level":"info"}
+{"message":"Now listening at 3000","level":"info"}

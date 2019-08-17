@@ -11,13 +11,21 @@ var userSequelizervice = function userSequelizervice() {
     logger.info(EVTC, 'Initialized User Service');
     var sequelize = SequelizeUtil(config, logger).getConnection();
 
-    var User = sequelize.define('login', {
+    var User = sequelize.define('users', {
         // Sequelize.STRING,  Sequelize.DATE, Sequelize.BIGINT , Sequelize.JSON
         id: {
             type: Sequelize.BIGINT,
             field: 'id',
             autoIncrement: true,
             primaryKey: true
+        },
+        firstname: {
+            type: Sequelize.STRING,
+            field: 'firstName'
+        },
+        lastname: {
+            type: Sequelize.STRING,
+            field: 'lastName'
         },
         username: {
             type: Sequelize.STRING,
@@ -26,6 +34,14 @@ var userSequelizervice = function userSequelizervice() {
         password: {
             type: Sequelize.STRING,
             field: 'password'
+        },
+        phone: {
+            type: Sequelize.STRING,
+            field: 'phone'
+        },
+        aadhar: {
+            type: Sequelize.STRING,
+            field: 'aadhar'
         },
         createdAt: {
             type: Sequelize.DATE,
@@ -60,6 +76,10 @@ var userSequelizervice = function userSequelizervice() {
             id: req.body.id,
             username: req.body.username,
             password: req.body.password,
+            lastname: req.body.lastname,
+            firstname: req.body.firstname,
+            phone: req.body.phone,
+            aadhar: req.body.aadhar,
             createdAt: sequelize.literal('NOW()'),
             modifiedAt: sequelize.literal('NOW()')
         });

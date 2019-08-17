@@ -1,4 +1,4 @@
-const SequelizeUtil = require('../utils/sequelizeUtil');
+const SequelizeUtil = require('../common/sequelizeUtil');
 const Sequelize = require('sequelize');
 /* eslint-disable */
 const EVTC = 'userService';
@@ -9,13 +9,21 @@ const userSequelizervice = () => {
   logger.info(EVTC, 'Initialized User Service');
   const sequelize = SequelizeUtil(config, logger).getConnection();
 
-  const User = sequelize.define('user', {
+  const User = sequelize.define('users', {
   // Sequelize.STRING,  Sequelize.DATE, Sequelize.BIGINT , Sequelize.JSON
         id: {
             type: Sequelize.BIGINT,
             field: 'id',
             autoIncrement: true,
             primaryKey: true,
+        },
+        firstname: {
+            type: Sequelize.STRING,
+            field: 'firstName',
+        },
+        lastname: {
+            type: Sequelize.STRING,
+            field: 'lastName',
         },
         username: {
             type: Sequelize.STRING,
@@ -24,6 +32,14 @@ const userSequelizervice = () => {
         password: {
             type: Sequelize.STRING,
             field: 'password',
+        },
+        phone: {
+            type: Sequelize.STRING,
+            field: 'phone',
+        },
+        aadhar: {
+            type: Sequelize.STRING,
+            field: 'aadhar',
         },
         createdAt: {
             type: Sequelize.DATE,
@@ -58,10 +74,13 @@ const userSequelizervice = () => {
             id: req.body.id,
             username: req.body.username,
             password: req.body.password,
+            lastname: req.body.lastname,
+            firstname: req.body.firstname,
+            phone: req.body.phone,
+            aadhar: req.body.aadhar,
             createdAt: sequelize.literal('NOW()'),
             modifiedAt: sequelize.literal('NOW()'),
-        },
-        );
+        });
     }
 
     function updateUser(req) {
@@ -73,7 +92,7 @@ const userSequelizervice = () => {
         },
         { where: {
             id: req.body.id,
-        },
+            },
         });
     }
 

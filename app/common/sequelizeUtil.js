@@ -19,7 +19,7 @@ const sequelizeUtil = () => {
                     port: config.databases.postgres.port,
                     schema: config.databases.postgres.schema,
                     logging: (str) => {
-                        logger.info(EVTC+ str);
+                        logger.info('Sequelize query'+ str);
                     },
                     define: { freezeTableName: true },
                     pool: {

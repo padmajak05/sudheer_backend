@@ -25,7 +25,7 @@ export function getUser(id) {
     let data;
     return userService1.getUser(id)
     .then((user) => {
-        logger.info(EVTC, 'User DATA : %s', JSON.stringify(user));
+        logger.info('User DATA'+ JSON.stringify(user));
         if(user.length > 0) {
             return user;
         } else {
@@ -84,9 +84,7 @@ export function deleteUser(req) {
 
 export function getData(req) {
     const data = dataService(req);
-    logger.info("----------------------",data);
     return data.then((data1) => {
-        logger.info("Data...........................",data1);
         return data1;
     }).catch((error) => {
         logger.info(EVTC, 'error while fetching data>> %s', JSON.stringify(error));
